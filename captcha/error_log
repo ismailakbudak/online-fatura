@@ -1,0 +1,99 @@
+[23-Jul-2013 01:42:49 America/Chicago] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 108
+[23-Jul-2013 01:42:49 America/Chicago] PHP Warning:  imagecreatefrompng() [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: Filename cannot be empty in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 111
+[23-Jul-2013 01:42:49 America/Chicago] PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 112
+[23-Jul-2013 01:42:49 America/Chicago] PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 113
+[23-Jul-2013 01:42:49 America/Chicago] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 116
+[23-Jul-2013 01:42:49 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Font file not found: ' in /home1/fatura/public_html/fatura/captcha/create_captcha.php:125
+Stack trace:
+#0 {main}
+  thrown in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 125
+[12-Aug-2013 12:41:28 America/Chicago] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 108
+[12-Aug-2013 12:41:28 America/Chicago] PHP Warning:  imagecreatefrompng() [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: Filename cannot be empty in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 111
+[12-Aug-2013 12:41:28 America/Chicago] PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 112
+[12-Aug-2013 12:41:28 America/Chicago] PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 113
+[12-Aug-2013 12:41:28 America/Chicago] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 116
+[12-Aug-2013 12:41:28 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Font file not found: ' in /home1/fatura/public_html/fatura/captcha/create_captcha.php:125
+Stack trace:
+#0 {main}
+  thrown in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 125
+[19-Sep-2013 10:26:49 America/Chicago] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 108
+[19-Sep-2013 10:26:49 America/Chicago] PHP Warning:  imagecreatefrompng() [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: Filename cannot be empty in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 111
+[19-Sep-2013 10:26:49 America/Chicago] PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 112
+[19-Sep-2013 10:26:49 America/Chicago] PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 113
+[19-Sep-2013 10:26:49 America/Chicago] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 116
+[19-Sep-2013 10:26:49 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Font file not found: ' in /home1/fatura/public_html/fatura/captcha/create_captcha.php:125
+Stack trace:
+#0 {main}
+  thrown in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 125
+[19-Sep-2013 10:26:50 America/Chicago] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 108
+[19-Sep-2013 10:26:50 America/Chicago] PHP Warning:  imagecreatefrompng() [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: Filename cannot be empty in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 111
+[19-Sep-2013 10:26:50 America/Chicago] PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 112
+[19-Sep-2013 10:26:50 America/Chicago] PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 113
+[19-Sep-2013 10:26:50 America/Chicago] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 116
+[19-Sep-2013 10:26:50 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Font file not found: ' in /home1/fatura/public_html/fatura/captcha/create_captcha.php:125
+Stack trace:
+#0 {main}
+  thrown in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 125
+[15-Oct-2013 06:45:16 America/Chicago] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 108
+[15-Oct-2013 06:45:16 America/Chicago] PHP Warning:  imagecreatefrompng() [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: Filename cannot be empty in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 111
+[15-Oct-2013 06:45:16 America/Chicago] PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 112
+[15-Oct-2013 06:45:16 America/Chicago] PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 113
+[15-Oct-2013 06:45:16 America/Chicago] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 116
+[15-Oct-2013 06:45:16 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Font file not found: ' in /home1/fatura/public_html/fatura/captcha/create_captcha.php:125
+Stack trace:
+#0 {main}
+  thrown in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 125
+[16-Oct-2013 09:33:49 America/Chicago] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 108
+[16-Oct-2013 09:33:49 America/Chicago] PHP Warning:  imagecreatefrompng() [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: Filename cannot be empty in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 111
+[16-Oct-2013 09:33:49 America/Chicago] PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 112
+[16-Oct-2013 09:33:49 America/Chicago] PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 113
+[16-Oct-2013 09:33:49 America/Chicago] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 116
+[16-Oct-2013 09:33:49 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Font file not found: ' in /home1/fatura/public_html/fatura/captcha/create_captcha.php:125
+Stack trace:
+#0 {main}
+  thrown in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 125
+[17-Oct-2013 02:11:28 America/Chicago] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 108
+[17-Oct-2013 02:11:28 America/Chicago] PHP Warning:  imagecreatefrompng() [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: Filename cannot be empty in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 111
+[17-Oct-2013 02:11:28 America/Chicago] PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 112
+[17-Oct-2013 02:11:28 America/Chicago] PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 113
+[17-Oct-2013 02:11:28 America/Chicago] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 116
+[17-Oct-2013 02:11:28 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Font file not found: ' in /home1/fatura/public_html/fatura/captcha/create_captcha.php:125
+Stack trace:
+#0 {main}
+  thrown in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 125
+[30-Oct-2013 11:02:35 America/Chicago] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 108
+[30-Oct-2013 11:02:35 America/Chicago] PHP Warning:  imagecreatefrompng() [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: Filename cannot be empty in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 111
+[30-Oct-2013 11:02:35 America/Chicago] PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 112
+[30-Oct-2013 11:02:35 America/Chicago] PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 113
+[30-Oct-2013 11:02:35 America/Chicago] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 116
+[30-Oct-2013 11:02:35 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Font file not found: ' in /home1/fatura/public_html/fatura/captcha/create_captcha.php:125
+Stack trace:
+#0 {main}
+  thrown in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 125
+[08-Nov-2013 06:26:59 America/Chicago] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 108
+[08-Nov-2013 06:26:59 America/Chicago] PHP Warning:  imagecreatefrompng() [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: Filename cannot be empty in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 111
+[08-Nov-2013 06:26:59 America/Chicago] PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 112
+[08-Nov-2013 06:26:59 America/Chicago] PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 113
+[08-Nov-2013 06:26:59 America/Chicago] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 116
+[08-Nov-2013 06:26:59 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Font file not found: ' in /home1/fatura/public_html/fatura/captcha/create_captcha.php:125
+Stack trace:
+#0 {main}
+  thrown in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 125
+[13-Nov-2013 03:22:20 America/Chicago] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 108
+[13-Nov-2013 03:22:20 America/Chicago] PHP Warning:  imagecreatefrompng() [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: Filename cannot be empty in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 111
+[13-Nov-2013 03:22:20 America/Chicago] PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 112
+[13-Nov-2013 03:22:20 America/Chicago] PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 113
+[13-Nov-2013 03:22:20 America/Chicago] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 116
+[13-Nov-2013 03:22:20 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Font file not found: ' in /home1/fatura/public_html/fatura/captcha/create_captcha.php:125
+Stack trace:
+#0 {main}
+  thrown in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 125
+[18-Nov-2013 14:08:30 America/Chicago] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 108
+[18-Nov-2013 14:08:30 America/Chicago] PHP Warning:  imagecreatefrompng() [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: Filename cannot be empty in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 111
+[18-Nov-2013 14:08:30 America/Chicago] PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 112
+[18-Nov-2013 14:08:30 America/Chicago] PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 113
+[18-Nov-2013 14:08:30 America/Chicago] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 116
+[18-Nov-2013 14:08:30 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'Font file not found: ' in /home1/fatura/public_html/fatura/captcha/create_captcha.php:125
+Stack trace:
+#0 {main}
+  thrown in /home1/fatura/public_html/fatura/captcha/create_captcha.php on line 125

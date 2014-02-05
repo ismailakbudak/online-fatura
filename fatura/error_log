@@ -1,0 +1,1 @@
+[22-Jul-2013 04:33:03 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home1/fatura/public_html/fatura/my_class/mySQL.php:31) in /home1/fatura/public_html/fatura/fatura/ajax-urun-bilgileri.php on line 3

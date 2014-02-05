@@ -1,0 +1,26 @@
+
+       #yazilar { float:left; width: 200px; margin-right: 1em; border:  dashed; text-align: center }
+       h2 { padding: .2em; margin: 0; width:192px; float: left; text-align: center; }
+       #sayfa { width: 595px; height: 842px; float: left;  border: dashed; background-color: rgb(230,230,230)  }
+       #basliklar ul{ margin-top: 30px; witdh:230px; height: 600px; background-color: rgb(230,230,230); border: groove  }
+       #basliklar ul .element{  width:192px; height: 20px;float: left; padding-top: 5px; margin-bottom: 5px;  text-align: center; background-color: rgb(255,255,255);}
+       #basliklar ul li a{float: right; margin-right: 7px;}
+       #sayfa .element{ width:192px; height: 20px;float: left; padding-top: 5px; margin-bottom: 5px;  text-align: center; background-color: rgb(255,255,255);}
+       #sayfa .element:hover{ cursor:move }
+       #sayfa .element a {float: right; margin-right: 7px;}
+       #yazilar h2{margin:4px; width:185px; font-size:14px;}
+       #kayitli_dizayn {padding:2px; width:185px; }
+       #basliklar-ust input{margin-bottom: 10px; padding: 2px; width: 185;}
+       #sayfa .element a:hover, #basliklar-ust input:hover, #basliklar ul li a:hover, #kaydet:hover, #width-arttir:hover, #width-azalt:hover, #heigth-arttir:hover, #heigth-azalt:hover, select:hover {cursor: pointer;}
+       #ust_bar {margin:5px; float:left;}
+       #ust_bar #yazPozisyon{float:left; margin:1px;  }
+       #page_info label{padding:6px; float:left}
+       #page_info .ui-widget-button{padding:0px; font-weight:bold; float:left; width:18px; height: 18px; margin:2px;}
+       #page_info .yaz {width:50px; padding:2px; float:left;}
+       #page_info .uzunluk {padding:2px; margin-left:10px;} 
+       #element_info label{padding:2px; margin-left:10px;}
+       #element_info .yaz {width:50px; padding:2px;}
+       #kayit_info {margin:5px; foat:left;}
+       #kayit_info .ui-widget-button{float:left; margin:2px; padding:2px;}
+       #kayit_info label{float:left; padding:3px; margin-top:5px; margin-left:10px;}
+       #kayit_info select{float:left; padding:2px; margin-left:10px;}

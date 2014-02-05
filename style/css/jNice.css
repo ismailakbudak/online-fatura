@@ -1,0 +1,324 @@
+/*-------   Kendi Yazdıklarım   Developer ismail AKBUDAK */
+
+#main2 .jNice .kullanici_ekle_satir {
+  width:890px;height:20px; margin-top:4px; margin-right:8px; margin-left:8px; 
+  padding:7px; text-align:left;float:left; background-color: #F0F8FF; }
+#main2 .jNice .kullanici_ekle_satir .sirket_lbl{ float: left; font-size: 16px; padding-top: 3px;}
+#main2 .jNice .kullanici_ekle_satir input{ width: 230px;}
+#main2 .jNice .kullanici_ekle_sag{ float:left;  font-size:14px; padding-top:3px; margin-top: 0px; 
+                                   text-align:right; margin-right:5px; width:140px; color:#5494AF; /*mavi*/}
+#main2 .jNice  .satir_bol { width: 440px; float: left;} 
+#main2 .jNice input{ float: left; width: 200px; padding:2px; height: 22px; color:#C66653; /* hafif kırmızı*/ }
+#main2 .jNice input:focus { border: 1px solid #b3b3b3; background-color: #F5DEB3;  font-weight:700; color:black; }
+#main2 .jNice  textarea:focus{ background-color:#F5DEB3; font-weight:800; color:black; } 
+#main2 .jNice  textarea{ float: left; width: auto; width: 300px; height: auto;  color:#C66653; /* hafif kırmızı*/ }
+#main2 .jNice .my{ width:890px; height:auto; text-align:left;  margin-top:2px; margin-left:8px; 
+                   margin-right:8px; padding:7px; float:left; background-color:#F0F8FF; }
+#main2 .jNice .my_button{ width:150px; margin-top:0; margin-bottom:5px; float:left;  
+	                      height:30px; color:#5494AF; text-align: center;}
+#main2 .jNice .my_button:hover{ font-weight: 800; }
+#main2 .jNice .myy{ width:auto; float:left; }
+#page {text-align: center;   padding: 6px; height: 20px;}
+#page a {text-decoration: none; color:#C66653;  font-size:13px; padding:2px;}
+#page a:hover {color:#5494AF; font-weight:bold; font-size: 14px; }
+#page .selected {color:#5494AF; font-weight:bold; font-size: 14px; margin: 4px; }
+.ui-autocomplete {  max-height: 300px; overflow-y: auto; overflow-x: hidden;  }
+
+/* -------------
+ * Buttons
+ * ------------- */
+button {
+	margin: 0px;
+	padding: 0px 0px;
+	border: none;
+	background-color: transparent;
+	cursor: pointer;
+	height: 29px;
+	display: block;
+	float: left;
+	overflow: visible;
+}
+
+*:first-child+html button[type]{width: 1;} /* IE7 */
+
+button span {
+	background: transparent url(../img/btn_left.gif) no-repeat scroll right top;
+	display: block;
+	padding: 0px 10px 0px 0px; /* sliding doors padding */
+	margin: 0px;
+}
+
+button span span {
+	background: transparent url(../img/btn_right.gif) no-repeat left top;
+	color: #646464;
+	margin: 0;
+	padding: 0 0 0 10px;
+	font: 14px Arial, Helvetica, sans-serif;
+	line-height: 29px;
+	display: block;
+	text-decoration: none;
+}
+
+button span:hover {
+	color: #0000FF;
+	font-weight: 700;
+}
+
+/* -------------
+ * Inputs
+ * ------------- */
+.jNiceInputWrapper {
+	background: transparent url(../../elements/input_left.gif) no-repeat left top;
+	height: 23px;
+	padding: 0px;
+
+}
+
+.jNiceInputInner {
+	background: transparent url(../../elements/input_right.gif) no-repeat right top;
+	padding: 2px 4px 2px 0px;
+	margin: 0px 0px 0px 4px;
+}
+
+.jNiceInputInner div {
+	height: 19px;
+}
+
+.jNiceInputInner input {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	line-height: 18px;
+	vertical-align: middle;
+	height: 17px;
+	color:#404040;	
+	border: 0;
+	padding: 0px;
+	margin: 0px;
+}
+
+.jNiceSafari .jNiceInputInner div {
+	position: relative;
+	overflow: hidden;
+}
+
+.jNiceSafari input {
+	background-color: none;
+	position: absolute;
+	top: -2px;
+	left: -4px;
+	height: 26px; 
+}
+
+/* -------------
+ * Radios
+ * ------------- */
+.jRadioWrapper {float: left; width: 25px;}
+.jNiceRadio {
+	background: transparent url(../img/radio.gif) no-repeat center top;
+	vertical-align: middle;
+	height: 14px;
+	width: 15px;
+	display:block;/*display: -moz-inline-block;*/
+	margin: 0 10px 0 0;
+}
+
+
+/* -------------
+ * Checkboxes
+ * ------------- */
+.jNiceCheckbox {
+	background: transparent url(../img/checkbox.gif) no-repeat center top;
+	vertical-align: middle;
+	height: 13px;
+	float: left;
+	margin: 0 10px 0 0;
+	width: 14px;
+	display:block;/*display: -moz-inline-block;*/
+}
+
+/* -------------
+ * Checked - Used for both Radio and Checkbox
+ * ------------- */
+.jNiceChecked { background-position: center bottom;}
+
+
+/* -------------
+ * Selects
+ * ------------- */
+.jNiceSelectWrapper {
+    width: 280px;  /* Originali 280 idi*/
+	color:#C66653;
+	position:relative;
+	height: 26px;
+	float: left;
+	border: none !important;
+}
+
+.jNiceSelectWrapper div span {
+	float: none;
+	position: absolute;
+	width: 250px;  /* Originali 250 idi*/
+	height: 26px;
+	background: url(../img/select_left.gif) no-repeat left top;
+	line-height: 18px;
+	font: 14px/14px Arial, Helvetica, sans-serif;
+	color:#C66653;
+	padding: 7px 7px 0;
+	overflow: hidden;
+	border: none !important;
+}
+
+.jNiceSelectWrapper div a {
+	display: block;
+	position: absolute;
+	right: 0px;
+	width: 30px;
+	border: none;
+	height: 26px;
+	background: url(../img/select_right.gif) no-repeat center center;
+}
+
+.jNiceSelectWrapper ul {
+	position: absolute;
+	width: 250px !important;   /* Originali 250 idi*/
+	top: 26px;
+	left: 0px;
+	list-style: none;
+	background-color: #FFF;
+	display: none;
+	margin: 0px;
+	padding: 0px;
+	border: 1px solid #eaeaea;
+	max-height: 99px;
+	overflow: auto;
+	overflow-y: auto;
+	z-index:100;
+}
+
+.jNiceSelectWrapper ul li { width: auto !important; }
+
+
+.jNiceSelectWrapper ul a {
+	display: block;
+	padding: 7px 7px;
+	text-decoration: none;
+	color: #9b9b9b;
+	font: 13px/13px Arial, Helvetica, sans-serif;
+	background-color: #FFF;
+}
+
+.jNiceSelectWrapper ul a:hover { background:#f6f6f6; }
+.jNiceSelectWrapper ul a.selected { background: #f0f7fa; color: #c66653; }
+
+/* -------------
+ * Hidden - used to hide the original form elements
+ * ------------- */
+.jNiceHidden {display: none;}
+
+
+/*-----------------------------------------
+ *   Kendi Yazdıklarım
+ *   Developer ismail AKBUDAK
+/*---------------------------------------
+ *   Kendi Yazdıklarım
+ *   Developer ismail AKBUDAK
+ *-------------------------------------*/
+/*---------------------------------------
+ *   Kendi Yazdıklarım
+ *   Developer ismail AKBUDAK
+/*---------------------------------------
+ *   Kendi Yazdıklarım
+ *   Developer ismail AKBUDAK
+ *-------------------------------------*/
+
+#main .jNice .kullanici_ekle_satir {
+width:680px;
+height:25px; 
+margin-top:4px;
+margin-right:4px;
+padding:10px; 
+text-align:center;
+float:left; 
+background-color:#F0F8FF;
+}
+
+
+#main .jNice .kullanici_ekle_satir .sirket_lbl{
+	float: left; font-size: 16px; padding-top: 3px;
+}
+/* Girilmesi gereken değerlerin yazıları */
+#main .jNice .kullanici_ekle_sag{
+float:left; 
+font-size:15px;
+margin-top: 3px;
+text-align:right;
+margin-right:15px;
+width:150px;
+color:#5494AF; /* Hafif mavi */
+}
+
+#main .jNice input{
+    float: left;
+    width: auto;
+    width: 300px;
+    padding:3px;
+    height: auto;
+    color:#C66653; /* hafif kırmızı*/
+}
+
+/* üzerine gelme efekti verir*/
+#main .jNice input:focus {
+	border: 2px solid #b3b3b3;
+    background-color: #F5DEB3; 
+    font-weight:800;
+    color:black;
+}
+
+#main .jNice  textarea:focus{
+    background-color:#F5DEB3;
+    font-weight:800;
+    color:black;
+  }
+  
+#main .jNice  textarea{
+  	float: left;
+    width: auto;
+    width: 300px;
+    height: auto;
+    color:#C66653; /* hafif kırmızı*/
+  }
+  
+#main .jNice .my
+{
+    width:680px; 
+    height:auto; 
+    margin-top:20px;
+    padding:10px;
+    float:left;
+    background-color:#F0F8FF;
+}
+#main .jNice .my_button{
+    width:150px;
+    margin-top:0;
+    margin-bottom:5px;
+    float:left; 
+    height:30px;
+    color:#5494AF;
+    text-align: center;
+}
+#main .jNice .my_button:hover{
+	 font-weight: 800;	 
+}
+#main .jNice .myy{
+	width:160px;
+    float:left;
+}
+
+
+
+
+
+
+
+
+
