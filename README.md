@@ -1,5 +1,8 @@
 ##Developer Ismail AKBUDAK
 
+##Database
+* FATURA.sql
+
 ##Change Database  Properties
 * admin/my_class/mySQL.php
 * my_class/mySQL.php
